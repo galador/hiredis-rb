@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/pietern/hiredis-rb.png?branch=master)](http://travis-ci.org/pietern/hiredis-rb)
 
-Ruby extension that wraps [hiredis](http://github.com/antirez/hiredis). Both
+Ruby extension that wraps [hiredis](http://github.com/redis/hiredis). Both
 the synchronous connection API and a separate protocol reader are supported.
 It is primarily intended to speed up parsing multi bulk replies.
 
